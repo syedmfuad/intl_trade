@@ -1,4 +1,4 @@
-#Problem Set 4 
+#Problem Set 4
 
 
 #maximize X S.T. Y=(K)^b1(L)^b1 ; Kbar=Kx+ky ; Lbar=lk+ly

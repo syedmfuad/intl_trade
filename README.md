@@ -1,3 +1,3 @@
 # intl_trade
 
-#Codes from International Trade class
+Codes from International Trade class

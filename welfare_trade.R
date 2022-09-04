@@ -1,6 +1,4 @@
-#EXAM CODING 
-
-#country one usa for import oil : 
+#country one usa for import oil: 
 
 #Q-P
 dus1=100 #demand intercept for country usa oil  
